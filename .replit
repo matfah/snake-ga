@@ -1,0 +1,2 @@
+language = "python3"
+run = "python snakeClass.py --display=True --speed=50"

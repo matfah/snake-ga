@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/maurock/snake-ga)](https://repl.it/github/maurock/snake-ga)
+
 # Deep Reinforcement Learning
 ## Project: Train AI how to play Snake
 
